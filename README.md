@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm John Muli 👋
 
-<!--
-**mr-mizz/mr-mizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+ICT professional with a passion for **Python, SQL, AWS, networking, and cybersecurity**. Building projects in automation, cloud computing, and firewalls.
 
-Here are some ideas to get you started:
+## 🔧 Skills & Technologies
+- **Programming**: Python, SQL
+- **Cloud & DevOps**: AWS (EC2, S3, Lambda, IAM), Terraform
+- **Networking & Security**: Firewalls (pfSense, FortiGate), Network Monitoring
+- **Databases**: MySQL, PostgreSQL
+- **Other Tools**: Git, Linux, Bash, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+🚧 *Work in Progress...*
+- 🔹 [Project 1 Name](GitHub Repo Link) - *Short description*
+- 🔹 [Project 2 Name](GitHub Repo Link) - *Short description*
+- 🔹 More projects coming soon!
+
+## 📜 Certifications
+- [AWS Cloud Practitioner (Planned)]
+- Microsoft Data Fundamentals (DP-900) *(Planned)*
+- More certifications in progress!
+
+## 🌐 Connect With Me
+- 🔗 [Portfolio Website](#) *(Coming Soon!)*
+- 💼 [[LinkedIn](https://www.linkedin.com/in/john-muli/)](#)
+- 🐦 [Twitter](#)
+- 📧 [Email](mailto:your.email@example.com)
+
+---
+🚀 *Currently building my GitHub with awesome projects—stay tuned!*
