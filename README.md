@@ -12,8 +12,7 @@ ICT professional with a passion for **Python, SQL, AWS, networking, and cybersec
 
 ## 📂 Projects
 🚧 *Work in Progress...*
-- 🔹 [Project 1 Name](GitHub Repo Link) - *Short description*
-- 🔹 [Project 2 Name](GitHub Repo Link) - *Short description*
+
 - 🔹 More projects coming soon!
 
 ## 📜 Certifications
@@ -23,9 +22,8 @@ ICT professional with a passion for **Python, SQL, AWS, networking, and cybersec
 
 ## 🌐 Connect With Me
 - 🔗 [Portfolio Website](#) *(Coming Soon!)*
-- 💼 [[LinkedIn](https://www.linkedin.com/in/john-muli/)](#)
-- 🐦 [Twitter](#)
-- 📧 [Email](mailto:your.email@example.com)
+- 💼 [(https://www.linkedin.com/in/john-muli/)](#)
+- 📧 jmuli866@gmail.com
 
 ---
 🚀 *Currently building my GitHub with awesome projects—stay tuned!*
